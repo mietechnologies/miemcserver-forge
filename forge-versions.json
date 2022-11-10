@@ -1,0 +1,26 @@
+{
+    "1.19.2" : {
+        "forgeVersion" : "43.1.7",
+        "minecraftVersion" : "1.19.2"
+    },
+    "1.18.2" : {
+        "forgeVersion" : "40.1.0",
+        "minecraftVersion" : "1.18.2"
+    },
+    "1.17.1" : {
+        "forgeVersion" : "37.1.1",
+        "minecraftVersion" : "1.17.1"
+    },
+    "1.16.5" : {
+        "forgeVersion" : "36.2.34",
+        "minecraftVersion" : "1.16.5"
+    },
+    "1.15.2" : {
+        "forgeVersion" : "31.2.57",
+        "minecraftVersion" : "1.15.2"
+    },
+    "1.14.4" : {
+        "forgeVersion" : "28.2.26",
+        "minecraftVersion" : "1.14.4"
+    }
+}
