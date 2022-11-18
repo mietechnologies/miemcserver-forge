@@ -1,54 +1,67 @@
 {
     "1.19.2" : {
         "forgeVersion" : "43.1.7",
-        "minecraftVersion" : "1.19.2"
+        "minecraftVersion" : "1.19.2",
+        "usesArgsFile" : true
     },
     "1.18.2" : {
         "forgeVersion" : "40.1.0",
-        "minecraftVersion" : "1.18.2"
+        "minecraftVersion" : "1.18.2",
+        "usesArgsFile" : true
     },
     "1.17.1" : {
         "forgeVersion" : "37.1.1",
-        "minecraftVersion" : "1.17.1"
+        "minecraftVersion" : "1.17.1",
+        "usesArgsFile" : true
     },
     "1.16.5" : {
         "forgeVersion" : "36.2.34",
-        "minecraftVersion" : "1.16.5"
+        "minecraftVersion" : "1.16.5",
+        "usesArgsFile" : false
     },
     "1.15.2" : {
         "forgeVersion" : "31.2.57",
-        "minecraftVersion" : "1.15.2"
+        "minecraftVersion" : "1.15.2",
+        "usesArgsFile" : false
     },
     "1.14.4" : {
         "forgeVersion" : "28.2.26",
-        "minecraftVersion" : "1.14.4"
+        "minecraftVersion" : "1.14.4",
+        "usesArgsFile" : false
     },
     "1.13.2" : {
         "forgeVersion" : "25.0.223",
-        "minecraftVersion" : "1.13.2"
+        "minecraftVersion" : "1.13.2",
+        "usesArgsFile" : false
     },
     "1.12.2" : {
         "forgeVersion" : "14.23.5.2859",
-        "minecraftVersion" : "1.12.2"
+        "minecraftVersion" : "1.12.2",
+        "usesArgsFile" : false
     },
     "1.11.2" : {
         "forgeVersion" : "13.20.1.2588",
-        "minecraftVersion" : "1.11.2"
+        "minecraftVersion" : "1.11.2",
+        "usesArgsFile" : false
     },
     "1.10.2" : {
         "forgeVersion" : "12.18.3.2511",
-        "minecraftVersion" : "1.10.2"
+        "minecraftVersion" : "1.10.2",
+        "usesArgsFile" : false
     },
     "1.9.4" : {
         "forgeVersion" : "12.17.0.2317",
-        "minecraftVersion" : "1.9.4"
+        "minecraftVersion" : "1.9.4",
+        "usesArgsFile" : false
     },
     "1.8.9" : {
         "forgeVersion" : "11.15.1.2318",
-        "minecraftVersion" : "1.8.9"
+        "minecraftVersion" : "1.8.9",
+        "usesArgsFile" : false
     },
     "1.7.10" : {
         "forgeVersion" : "10.13.4.1614",
-        "minecraftVersion" : "1.10.4"
+        "minecraftVersion" : "1.10.4",
+        "usesArgsFile" : false
     }
 }
